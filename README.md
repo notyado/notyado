@@ -15,6 +15,6 @@
 
 ### Contact
 
-[![Telegram](https://img.shields.io/badge/@sayanagi-0A192F?style=for-the-badge&logo=telegram&logoColor=60A5FA)](https://t.me/notyado)
+[![Telegram](https://img.shields.io/badge/@notyado-0A192F?style=for-the-badge&logo=telegram&logoColor=60A5FA)](https://t.me/notyado)
 
 </div>
