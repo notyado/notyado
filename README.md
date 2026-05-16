@@ -9,7 +9,7 @@
 ### Frameworks & Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=dotnet,react,flutter,tailwind,redis,rabbitmq,postgres,docker,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dotnet,react,vue,nuxtjs,postgres,redis,kafka,docker&theme=dark" />
 </a>
 
 
