@@ -3,7 +3,7 @@
 ### Languages
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,rust,go,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,go,ts&theme=dark" />
 </a>
 
 ### Frameworks & Tools
